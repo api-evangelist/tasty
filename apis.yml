@@ -1,0 +1,32 @@
+aid: tasty
+name: Tasty
+description: "API to query data about recipe, plan, ingredients"
+url: https://rapidapi.com/apidojo/api/tasty/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Food & Drink"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Food And Drink
+  - Public APIs
+apis:
+  - name: Tasty
+    description: "API to query data about recipe, plan, ingredients"
+    humanURL: https://rapidapi.com/apidojo/api/tasty/
+    baseURL: https://rapidapi.com/apidojo/api/tasty/
+    tags:
+      - Food And Drink
+    properties:
+      - type: Documentation
+        url: https://rapidapi.com/apidojo/api/tasty/
+common:
+  - type: Website
+    url: https://rapidapi.com/apidojo/api/tasty/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
